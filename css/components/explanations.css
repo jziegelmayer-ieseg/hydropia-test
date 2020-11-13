@@ -1,0 +1,13 @@
+.explanations {
+
+	background-image: linear-gradient(0deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0) 0%) , url(../../images/explanations.png);
+	padding: 200px 0px;
+	background-size: cover;
+}
+
+
+.btn-see-more{
+	text-align: center;
+	padding: 30px;
+	background-color: #A77F62;
+}

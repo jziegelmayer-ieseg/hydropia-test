@@ -1,0 +1,25 @@
+.list-inline{
+	list-style: none;
+	margin-top: 10px;
+}
+
+
+.category{
+	list-style: none;
+	color: #A77F62;
+	justify-content: space-between;
+	margin: 30px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+}
+
+
+#cart{
+	height: 40px;
+	width: 40px;
+	float: right;
+}
+
+#logo{
+	float: left;
+}
