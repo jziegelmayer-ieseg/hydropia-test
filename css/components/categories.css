@@ -3,6 +3,10 @@
 	margin-top: 10px;
 }
 
+.list-inline li{
+	float: left;
+}
+
 
 .category{
 	list-style: none;
